@@ -13,11 +13,13 @@ function App() {
       { title: "Boys Over Flowers", image: "https://upload.wikimedia.org/wikipedia/en/6/65/Boys_Over_Flowers_%28TV_series%29_poster.jpg" },
       { title: "Hotel Del Luna", image: "https://m.media-amazon.com/images/M/MV5BNWU3M2YxZmEtZTZiMi00NTBhLWEyYWMtOTBhOTEyMzkyYmI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg" },
       { title: "Vincenzo", image: "https://upload.wikimedia.org/wikipedia/en/5/5b/Vincenzo_TV_series.jpg" },
+      { title: "Twenty-Five-Twenty-One", image: "https://i.namu.wiki/i/ruRMIZbWCb7MNLkadU8QnpDE3sX4LtSuBT1WRDUfztF4P_vu4v4hXiHLVZk5ulJUd2t2aMnAjyGHlhDjF-f20g.webp" },
       { title: "It's Okay to Not Be Okay", image: "https://m.media-amazon.com/images/M/MV5BYTk0Nzk5ZWYtYTNlZi00YjBjLWJhYjctMWMwMmYyMDA5ZjJmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg" },
       { title: "While You Were Sleeping", image: "https://m.media-amazon.com/images/M/MV5BMmQzYmFjZjktMWJlYy00Y2VkLTk4YjktODQ3MGQ4MDE0NDIzXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_QL75_UY281_CR3,0,190,281_.jpg" }
     ],
     Action: [
       { title: "Vagabond", image: "https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg" },
+      { title: " { title: "Squid Game", image: "https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg" }," },
       { title: "The K2", image: "https://m.media-amazon.com/images/M/MV5BMGI1MDIzNTItMzg1ZS00MmFkLWFlZDEtYmVmZWVkMDZkM2U3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" },
       { title: "City Hunter", image: "https://m.media-amazon.com/images/M/MV5BMDQ1ZjY2NGYtYmI2NS00MmJhLWJlNjgtMTk5MDNjZDVmNjM0XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_.jpg" },
       { title: "Healer", image: "https://m.media-amazon.com/images/M/MV5BZDJhMDI5MWYtOTUxMS00ZDk1LWExMDItNTZmNWJiZjhkMzdhXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_FMjpg_UX1000_.jpg" },
