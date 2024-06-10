@@ -13,6 +13,7 @@ function App() {
       { title: "Boys Over Flowers", image: "https://upload.wikimedia.org/wikipedia/en/6/65/Boys_Over_Flowers_%28TV_series%29_poster.jpg" },
       { title: "Hotel Del Luna", image: "https://m.media-amazon.com/images/M/MV5BNWU3M2YxZmEtZTZiMi00NTBhLWEyYWMtOTBhOTEyMzkyYmI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg" },
       { title: "Vincenzo", image: "https://upload.wikimedia.org/wikipedia/en/5/5b/Vincenzo_TV_series.jpg" },
+      { title: "My Demon", image: "https://m.media-amazon.com/images/I/81FfGoqCvbL._AC_UF350,350_QL80_.jpg" },
       { title: "It's Okay to Not Be Okay", image: "https://m.media-amazon.com/images/M/MV5BYTk0Nzk5ZWYtYTNlZi00YjBjLWJhYjctMWMwMmYyMDA5ZjJmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg" },
       { title: "While You Were Sleeping", image: "https://m.media-amazon.com/images/M/MV5BMmQzYmFjZjktMWJlYy00Y2VkLTk4YjktODQ3MGQ4MDE0NDIzXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_QL75_UY281_CR3,0,190,281_.jpg" }
     ],
